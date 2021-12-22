@@ -32,3 +32,9 @@ body{
     padding: 10px;
     justify-content: space-around;
 }
+
+#searching-toggle{
+    text-decoration: none;
+    color: white;
+    padding: 50px;
+}
